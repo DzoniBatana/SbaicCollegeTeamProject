@@ -1,0 +1,273 @@
+.header-logo{
+    box-shadow:10px 0 5px silver;
+    width: 350px;
+    height: inherit;
+    display: inline-block;
+    margin: 0;
+}
+
+body, html{
+    margin:0;
+    padding:0;
+    font-family: "Work Sans",sans-serif;
+}
+
+.header-logo-png{
+    height: 90px;
+    width: 300px;
+    padding: 30px 20px 20px 20px;
+}
+
+h2{
+    color: #0093d6;
+    padding: 5% 0 0 5%;
+}
+
+.header-text{
+    display: inline-block;
+    width: 500px;
+    height: inherit;
+    vertical-align: top;
+}
+
+.header-menu{
+    margin: auto;
+    width: 90%;
+    height: 75px;
+}
+
+a{
+    color: white;
+    font-size: 20px;
+    margin-left: 2%;
+    padding: 2%;
+    display: inline-block;
+}
+
+.header-menu-bg{
+    background-color: #396856;
+}
+
+#a-about{
+    margin-left: 2%;
+}
+
+a:hover{
+    background-color: yellowgreen;
+    transition-duration: 0.5s;
+}
+
+.content{
+    background-image: url("../images/bg_about-1.jpg");
+    background-position: center;
+    width: 100%;
+    height: 55%;
+    position: relative;
+}
+
+.content-text{
+    width: 80%;
+    margin: auto;
+    background-color: rgba(0,70,104);
+    opacity: 0.8;
+    color: white;
+    font-size: 20px;
+    vertical-align: bottom;
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+}
+
+#content-p{
+    padding: 1% 5%;
+    text-align: center;
+}
+
+.content-text-2{
+    width: 76%;
+    padding: 3% 5%;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+.content-3{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    padding-bottom: 6%;
+}
+
+#content-logo-png{
+    height: 12%;
+    width: 30%;
+}
+
+#p-growing{
+    font-size: 40px;
+    color: #0093d6;
+    font-weight: bolder;
+}
+
+#btnMeet{
+    text-align: center;
+    border: none;
+    color: white;
+    background-color: yellowgreen;
+    height: 40px;
+    width: 240px;
+    font-size: 20px;
+    padding-top: 5px;
+}
+
+#btnMeet:hover{
+    background-color: #396856;
+    transition-duration: 0.5s;
+}
+
+.footer1-bg{
+    background-color: #396856;
+}
+
+.footer1{
+    margin: auto;
+    width: 80%;
+}
+
+.footer1-text{
+    width: 15%;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.footer1-btn{
+    display: inline-block;
+    vertical-align: top;
+    margin: 5% 0 0 5%;
+}
+
+#btnMembersSearch{
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 7px;
+    height: 40px;
+    width: 240px;
+    font-size: 20px;
+    color: #396856;
+    border: none;
+    box-shadow: 0px 2px 0px 0px #395916;
+}
+
+#btnMembersSearch:hover{
+    color: white;
+    background-color: #396856;
+    transition-duration: 0.5s;
+}
+
+.footer2-bg{
+    background-color: rgba(0,70,104);
+}
+
+.footer2{
+    margin: auto;
+    width: 80%;
+}
+
+.footer2-sbaic{
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+}
+
+.footer2-small{
+    font-size: 13px;
+}
+
+.footer2-text{
+    width: 58%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15%;
+    font-size: 15px;
+    color: white;
+    font-weight: 10;
+}
+
+.footer2-uhsome{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 8%;
+    float: right;
+    color: white;
+}
+
+.content-leadership{
+    padding-top: 4%;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+.content-leadership h1{
+    color: #396856;
+}
+
+.content-leadership p{
+    padding-top: 2%;
+    font-size: 20px;
+}
+
+.bg-content{
+    background-color: #396856;
+}
+
+.committee{
+    color: white;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    /* border: red solid 1px; */
+}
+
+.committee h3{
+    color: white;
+    padding-top: 2%;
+}
+
+.committee-img{
+    padding: 0 2% 5% 2%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.bg-olivegreen{
+    background-color: darkolivegreen;
+}
+
+.committee-p{
+    font-size: 20px;
+    padding-bottom: 3%;
+}
+
+#div-btnApply{
+    text-align: center;
+}
+
+#btnApply{
+    text-align: center;
+    border: none;
+    color: white;
+    background-color: yellowgreen;
+    height: 60px;
+    width: 300px;
+    font-size: 20px;
+    padding-top: 5px;
+    text-transform: uppercase;
+}
+
+#btnApply:hover{
+    background-color: #396856;
+    transition-duration: 0.5s;
+}
